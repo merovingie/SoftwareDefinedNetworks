@@ -1,0 +1,10 @@
+[
+    {
+        "server": "h1",
+        "client": "h2",
+        "begin": 60,
+        "duration": 120,
+        "bandwidth": 110,
+        "id": "intense_1"
+    }
+]

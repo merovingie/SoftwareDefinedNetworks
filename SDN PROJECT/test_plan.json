@@ -1,0 +1,18 @@
+[
+    {
+        "server": "h1",
+        "client": "h2",
+        "begin": 10,
+        "duration": 1,
+        "bandwidth": 15,
+        "id": 1
+    },
+    {
+        "server": "h1",
+        "client": "h2",
+        "begin": 12,
+        "duration": 3,
+        "bandwidth": 20,
+        "id": 2
+    }
+]

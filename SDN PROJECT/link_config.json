@@ -1,0 +1,38 @@
+[
+    {"input_port":1, "output_port":1, "bandwidth":100, "latency":2},
+    {"input_port":1, "output_port":101, "bandwidth":100, "latency":2},
+    {"input_port":1, "output_port":2, "bandwidth":125, "latency":2},
+    {"input_port":1, "output_port":3, "bandwidth":100, "latency":2},
+    {"input_port":1, "output_port":4, "bandwidth":100, "latency":2},
+    {"input_port":1, "output_port":5, "bandwidth":100, "latency":2},
+    {"input_port":1, "output_port":0, "bandwidth":100, "latency":2},
+
+    {"input_port":2, "output_port":1, "bandwidth":125, "latency":2},
+    {"input_port":2, "output_port":2, "bandwidth":55, "latency":2},
+    {"input_port":2, "output_port":3, "bandwidth":200, "latency":2},
+    {"input_port":2, "output_port":4, "bandwidth":175, "latency":2},
+    {"input_port":2, "output_port":5, "bandwidth":100, "latency":2},
+    {"input_port":2, "output_port":0, "bandwidth":100, "latency":2},
+
+    {"input_port":3, "output_port":1, "bandwidth":100, "latency":2},
+    {"input_port":3, "output_port":2, "bandwidth":200, "latency":2},
+    {"input_port":3, "output_port":3, "bandwidth":75, "latency":2},
+    {"input_port":3, "output_port":4, "bandwidth":150, "latency":2},
+    {"input_port":3, "output_port":5, "bandwidth":100, "latency":2},
+    {"input_port":3, "output_port":0, "bandwidth":100, "latency":2},
+
+    {"input_port":4, "output_port":1, "bandwidth":100, "latency":2},
+    {"input_port":4, "output_port":2, "bandwidth":175, "latency":2},
+    {"input_port":4, "output_port":102, "bandwidth":175, "latency":2},
+    {"input_port":4, "output_port":3, "bandwidth":150, "latency":2},
+    {"input_port":4, "output_port":4, "bandwidth":200, "latency":2},
+    {"input_port":4, "output_port":5, "bandwidth":100, "latency":2},
+    {"input_port":4, "output_port":0, "bandwidth":100, "latency":2},
+
+    {"input_port":5, "output_port":1, "bandwidth":100, "latency":2},
+    {"input_port":5, "output_port":2, "bandwidth":100, "latency":2},
+    {"input_port":5, "output_port":3, "bandwidth":100, "latency":2},
+    {"input_port":5, "output_port":4, "bandwidth":100, "latency":2},
+    {"input_port":5, "output_port":5, "bandwidth":100, "latency":2},
+    {"input_port":5, "output_port":0, "bandwidth":100, "latency":2}
+]

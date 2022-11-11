@@ -1,0 +1,32 @@
+#error of xterm you might need to do sudo -E because passing xauth and display variables
+#sudo apt install xterm
+#sudo apt  install curl
+#sudo apt  install git
+
+# sudo mn --topo linear,3,2 --mac --switch ovsk --controller remote -x
+
+# ryu-manager ryu/app/rest_router.py
+
+# cd /ryu/ryu_rest/ryu
+
+
+#commands to change hosts configuration
+# bash setHost.sh 10.0.0.1 h1s1-eth0 2 172.16.10.10 172.16.10.1
+# bash setHost.sh 2 172.16.10.10 172.16.10.1
+# bash setHost.sh 10.0.0.4 h2s1-eth0 110 172.16.10.11 172.16.10.1
+# bash setHost.sh 110 172.16.10.11 172.16.10.1
+# bash setHost.sh 10.0.0.3 h1s3-eth0 2 172.16.20.10 172.16.20.1
+# bash setHost.sh 2 172.16.20.10 172.16.20.1
+# bash setHost.sh 10.0.0.6 h2s3-eth0 110 172.16.20.11 172.16.20.1
+# bash setHost.sh 110 172.16.20.11 172.16.20.1
+# bash setHost.sh 10.0.0.2 h1s2-eth0 2 192.168.30.10 192.168.30.1
+# bash setHost.sh 2 192.168.30.10 192.168.30.1
+# bash setHost.sh 10.0.0.5 h2s2-eth0 110 192.168.30.11 192.168.30.1
+# bash setHost.sh 110 192.168.30.11 192.168.30.1
+
+#ip -o -4 route show to default | awk '{print $5}' | cut -d'.' -f1
+#ip addr show|egrep '^ *inet'|grep brd|awk -- '{ print $2; }'|sed -e 's:/[0-9]*$::'
+
+
+
+
